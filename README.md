@@ -38,7 +38,7 @@
 
 ## 🌟 Overview
 
-The **Synora** is a revolutionary no-code platform that democratizes DAO governance on the Somnia blockchain. It transforms complex smart contract interactions into intuitive forms, enabling anyone to create, simulate, and submit governance proposals without technical expertise.
+**Synora** is a revolutionary no-code platform that democratizes DAO governance on the Somnia blockchain. It transforms complex smart contract interactions into intuitive forms, enabling anyone to create, simulate, and submit governance proposals without technical expertise.
 
 ### 🎯 Mission
 Make DAO governance accessible to everyone by eliminating technical barriers while maintaining security and accuracy.
