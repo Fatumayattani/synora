@@ -242,8 +242,8 @@ graph LR
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/governance-proposal-generator.git
-cd governance-proposal-generator
+git clone https://github.com/Fatumayattani/synora.git
+cd synora
 
 # Install dependencies
 npm install
